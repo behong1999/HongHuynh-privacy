@@ -24,8 +24,8 @@ Local Checkers is suitable for all ages. We do not target children and don't kno
 We may update our Privacy Policy from time to time. We recommend reviewing this page for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately upon being posted. 
 
 ### Entity
-Developer: Hong Huynh
-Developer's email: [honghuynhkhon@gmail.com]
+- Developer: Hong Huynh
+- Developer's email: [honghuynhkhon@gmail.com]
 
 ### Contact Us
 
